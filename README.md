@@ -12,7 +12,6 @@ Application desktop JavaFX pour la gestion, la consultation et l’évaluation d
 **Faculté :** Faculté d’Ingénierie en Langues Étrangères
 
 </div>
----
 
 ## TABLE DES MATIÈRES
 
@@ -35,9 +34,9 @@ Le projet **« Outil d’édition de questions ouvertes »** consiste en le dév
 
 ## ACTEURS DU SYSTÈME
 
-**Étudiant** : Il crée son compte, consulte les tests publiés, soumet ses réponses aux questions ouvertes et visualise ses notes ainsi que les feedbacks reçus[cite: 5, 11, 15, 71, 75].
- **Enseignant** : Acteur principal de la création de contenu. Il conçoit les questions, organise les tests, publie le matériel pédagogique et évalue les réponses des étudiants[cite: 6, 7, 84, 87].
- **Administrateur** : Il assure la gestion des utilisateurs, valide les comptes des enseignants et peut supprimer des comptes pour maintenir l'intégrité de la plateforme[cite: 63, 65, 68].
+* **Étudiant** : Il crée son compte, consulte les tests publiés, soumet ses réponses aux questions ouvertes et visualise ses notes ainsi que les feedbacks reçus[cite: 5, 11, 15, 71, 75].
+* **Enseignant** : Acteur principal de la création de contenu. Il conçoit les questions, organise les tests, publie le matériel pédagogique et évalue les réponses des étudiants[cite: 6, 7, 84, 87].
+* **Administrateur** : Il assure la gestion des utilisateurs, valide les comptes des enseignants et peut supprimer des comptes pour maintenir l'intégrité de la plateforme[cite: 63, 65, 68].
 
 ---
 
