@@ -52,7 +52,7 @@ Le projet **« Outil d’édition de questions ouvertes »** consiste en le dév
 *Détail technique du flux d'enregistrement d'une nouvelle question dans la base de données.*
 
 ### Diagramme de Paquets
-![Diagramme de Paquets](img/paquets.png)  
+![Diagramme de Paquets](img/Diagramme_de_paquets.jpg)  
 *Organisation modulaire du système (Interface, Services, DAO).*
 
 ---
