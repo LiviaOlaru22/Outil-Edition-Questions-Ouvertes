@@ -7,7 +7,7 @@ Application desktop JavaFX pour la gestion, la consultation et l’évaluation d
 <div align="center">
 
 **Auteurs :** OLARU Livia & POPESCU Ana-Ioana 
-**Groupe :** 1231FA  
+* **Groupe :** 1231FA  
 **Université :** Université Nationale de Science et Technologie POLITEHNICA Bucarest  
 **Faculté :** Faculté d’Ingénierie en Langues Étrangères
 
